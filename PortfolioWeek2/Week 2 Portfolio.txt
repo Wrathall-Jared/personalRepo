@@ -1,0 +1,7 @@
+Sorry for some reason my part was in the small video box 
+https://www.youtube.com/watch?x-yt-cl=84503534&feature=player_embedded&v=Gh4BBJs9AhE&x-yt-ts=1421914688#t=524
+
+
+This week I worked on trying to learn HTTP requests and parallel processing.   I found a tutorial to follow and I was able to get a XML feed onto a simple sample app on my emulator.  There wasn't much time to learn code this week because we didn't have our first meeting until pretty late into the week.  I do feel like I learn quite a bit with the little time I did have.
+
+You can find my code I have created in the http&parallelprocessing folder in this repo.
