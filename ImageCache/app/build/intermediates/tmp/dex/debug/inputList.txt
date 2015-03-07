@@ -1,0 +1,2 @@
+C:\Users\Jared\Desktop\personalRepo\personalRepo\ImageCache\app\build\intermediates\classes\debug
+C:\Users\Jared\Desktop\personalRepo\personalRepo\ImageCache\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-622b57b8cc57439ac9c399998bf52b4b60fc80df.jar
